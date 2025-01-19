@@ -1,0 +1,25 @@
+.height500{
+    height: 500px;
+}
+
+.height250{
+    height: 250px;
+}
+
+h2{
+    color: aqua;
+}
+
+.nav-logo{
+    width: 120px;
+
+}
+
+.section-space{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.bg-primary-subtle{
+    background-color: brown !important;
+}
